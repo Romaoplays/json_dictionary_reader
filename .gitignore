@@ -122,3 +122,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dictionary files
+src/json_dictionary_reader/deconjugator_folder/
+src/json_dictionary_reader/dictionary_folder/
