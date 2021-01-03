@@ -124,5 +124,5 @@ dmypy.json
 .pyre/
 
 # Dictionary files
-src/json_dictionary_reader/deconjugator_folder/
-src/json_dictionary_reader/dictionary_folder/
+src/json_dictionary_reader/deconjugator_folder/conjugations.json
+src/json_dictionary_reader/dictionary_folder/Vicon_Ger_to_Eng_Dictionary.json
